@@ -21,4 +21,4 @@ Ao aprender os fundamentos de HTML5, CSS e JavaScript, você será capaz de comb
 Neste curso, você praticará o que aprender em vários laboratórios práticos. Por fim, você concluirá um projeto final onde criará uma página web para mostrar suas habilidades e terá um ótimo acréscimo ao seu portfólio!
 
 Você pode ver o Projeto Final Em:
-https://gdmacedo.github.io/my-portfolio/
+https://gdmacedo.github.io/introduction-to-web-development-with-html-css-javacript/
